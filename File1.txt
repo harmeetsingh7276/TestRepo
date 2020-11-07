@@ -1,3 +1,7 @@
 Change 1
 
+<<<<<<< HEAD
 Change 2-For 6 query Change in master
+=======
+Change 2-For the 6 Statement
+>>>>>>> 18d1555 (Bug-New Branch idea bug solved)
